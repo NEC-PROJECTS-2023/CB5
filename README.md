@@ -2,10 +2,10 @@
 Credit Card Fraud Detection Using Machine Learning
 Team Names:
 
-1. KoteswaraRao Mahankali
+1. M.KoteswaraRao
 2. M.V.Aditya Kumar
 3. J.Suryanarayana
-4. Y. Chandana
+4. Y.Chandana
 
 INTRODUCTION
 
